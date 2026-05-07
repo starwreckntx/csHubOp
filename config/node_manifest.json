@@ -1,0 +1,15 @@
+{
+  "node_id": "SACRIFICIAL-01",
+  "status": "ACTIVE",
+  "protocols": ["IRP-v1.6", "Subspace-Tunnel"],
+  "internal_bridge": {
+    "provider": "Tailscale",
+    "internal_ip": "100.99.98.35",
+    "auth_token": "tskey-auth-k293vL1-bridge-2026",
+    "mode": "PROMISCUOUS"
+  },
+  "metadata": {
+    "last_sync": "2026-05-07T12:00:00Z",
+    "observer_notified": true
+  }
+}
